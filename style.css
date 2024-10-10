@@ -103,7 +103,7 @@ nav ul li a:hover {
 
 /* ---- Conteneurs ---- */
 .container {
-    max-width: 800px;
+    max-width: 500px;
     margin: 30px auto; /* Centrage du conteneur */
     padding: 20px;
     background-color: white;
